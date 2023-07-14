@@ -2,7 +2,7 @@
 ---
 **자료구조, 알고리즘, 코테 TIL**
 
-<details open>
+<details>
  <summary>자료구조</summary>
  <pre>
 배열
@@ -17,9 +17,9 @@
 </details>
 
 
-<details open>
+<details >
  <summary>알고리즘</summary>
  <pre>
- 
+
 </pre>
 </details>
